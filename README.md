@@ -64,6 +64,8 @@ It includes
 ### Table of Contents
 
 - [What is Cloud Native](./cloud-native/What-is-cloud-native.md)
+- [VMs vs Containers](./VMs-vs-Containers/VMs-vs-Containers.md)
+- [What are Microservices](./Microservices/What-are-Microservices.md)
 
 ## Reference
 
