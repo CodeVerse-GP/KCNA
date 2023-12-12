@@ -28,7 +28,6 @@ One app which is responsible for everything. Functionality is tightly coupled.
 - Deployment
 
 ![Monolithic Architecture](./assets/monolithic.png)
-![Alt text](image.png)
 
 ## Microservices Architecture
 
